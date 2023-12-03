@@ -1,0 +1,89 @@
+/* .loader{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 10px solid rgb(30, 30, 36);
+    border-top: 10px solid rgb(207, 207, 188);
+    animation: SpinAnimate 1s ease-in-out 0s infinite forwards;
+    
+} */
+
+/* @keyframes SpinAnimate {
+    from{
+        transform: rotate(0deg);
+    }
+
+    to{
+        transform: rotate(360deg);
+    }
+} */
+
+
+#icon{
+    height:50px;
+    width: 50px;
+    background-image:url(2609282.png);
+    background-size: cover;
+    margin-left: 340px;
+    background-color:rgb(166, 226, 213);
+    border-radius: 50%;
+    padding:20px 20px 20px 20px;
+    border: 0px solid white;
+    margin-bottom: -5px;
+     }
+
+#mail{
+    /* background-image: url(3293334.png); */
+    background-size:20px;
+    background-repeat: no-repeat;  
+    padding-top: 30px;
+    padding-left: 10px;
+    font-weight: bold;
+     }
+     
+
+a{
+    text-decoration: none;
+    color: black;
+    padding-left: 80px;
+    margin-right: -1px;
+}
+
+body{
+    text-align: center;
+    margin: 200px 500px 100px 460px;
+    }
+
+    #password{
+        padding-bottom: 22px;
+        font-weight: bold;
+    }
+
+    button{
+       margin-top: 22px;
+       padding: 10px 80px 10px 80px;
+       font-weight: bolder;
+       border-radius: 9px;
+    margin-left: -10px;
+    margin-bottom:20px ;
+    color: rgb(255, 255, 255);
+    background-image: url(images\ \(2\).jpeg);
+    }
+    #input{
+        padding-top: 8px;
+        border-radius: 7px;
+        margin-left: 6px;
+        padding-left: 30px;
+    }
+
+    #login{
+      background-image: url(blurred-background-design_1107-224.avif);
+        border-radius: 60px;
+        margin-left: 90px;
+        margin-right: 90px;
+        background-repeat:round;
+    }
+    body{
+        background-image: url(aquamarine-background-border-yn6r5siv0v01hwu9.jpg);
+        background-size:cover;
+    }
